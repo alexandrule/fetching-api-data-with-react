@@ -4,14 +4,14 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^5.1.1",
-    "browserslist": "^4.16.5",
-    "glob-parent": "^5.1.2",
-    "immer": "9.0.6",
+    "browserslist": "^4.20.3",
+    "glob-parent": "^6.0.2",
+    "immer": "9.0.14",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "set-value": "4.0.1",
-    "typescript": "^4.4.3"
+    "typescript": "^4.6.4"
   },
   "scripts": {
     "start": "react-scripts start",
